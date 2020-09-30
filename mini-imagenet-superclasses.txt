@@ -1,0 +1,123 @@
+clothes:
+n03146219 armour
+n03047690 shoes
+n03980874 poncho
+n03770439 miniskirt
+n03527444 holster
+
+humans:
+n03888605 gym bars
+n04251144 snorkling
+n04509417 unicycle
+n03535780 horizontal_bar
+n02966193 roundabout/fairground
+
+instrument:
+n03272010 guitar
+n04515003 piano
+n03838899 oboe
+n03854065 organ
+n04296562 concert
+
+object:
+n04522168 vase
+n02747177 bin
+n02795169 barrel
+n03062245 cocktail mixer
+n03676483 lipstick
+n03584254 iPod
+n03544143 hourglass
+n03017168 chimes
+n03924679 photocopier
+n03476684 hairclip
+n03075370 combination_lock
+n03337140 filing cabinet
+n03207743 placemat
+n03908618 pencil case
+n03998194 rug
+n04067472 fishing rod
+n04243546 slot machine
+
+building:
+n03220513 dome roof
+n04258138 sttelite dish solar pnael
+n02871525 book/library
+n04418357 theatre curtain
+n04604644 fence
+n09246464 cliff
+n04435653 roof
+n04443257 shop
+n09256479 coral_reef
+n03127925 pallet
+n03347037 grate
+n04149813 scoreboard
+n06794110 road sign
+
+food:
+n02823428 bottle
+n07697537 hotdog
+n07747607 oranges
+n07584110 soup
+n03775546 bowl
+n13054560 mushroom
+n07613480 pudding
+n04596742 woks
+n03400231 pan
+n13133613 sweetcorn
+n02971356 carton
+
+vehicle:
+n02981792 catamaran
+n02687172 aircraft carrier
+n04146614 bus
+n04612504 sailing boat
+n04389033 tank
+n03417042 garbage_truck
+n02950826 cannon
+n03773504 missile
+
+bird:
+n01532829 bird
+n01558993 bird
+n01843383 bird
+n01855672 goose
+
+other_mamal:
+n02129165 lion
+n02443484 ferret
+n02138441 meerkat
+n02457408 sloth
+n02074367 walrus
+n01704323 dinosour
+
+fish:
+n01981276 crab
+n01910747 jellyfish
+n02606052 fish
+n01930112 cell
+
+insect:
+n02219486 ant
+n02165456 ladybird
+n02174001 rhinoceros_beetle
+n01770081 spider
+n01749939 snake
+n04275548 cobweb
+
+dog:
+n02089867 dog
+n02091831 dog
+n02101006 dog
+n02105505 dog
+n02108089 dog
+n02108551 dog
+n02108915 dog
+n02111277 dog
+n02113712 dog
+n02120079 dog
+n02091244 dog
+n02114548 dog
+n02099601 dog
+n02110063 dog
+n02110341 dog
+n02116738 dog
